@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: ome
+  author: jburel
   description: OMERO Prometheus exporter
   company: Open Microscopy Environment
   license: BSD
